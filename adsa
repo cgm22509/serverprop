@@ -1,0 +1,77 @@
+[33mcommit 14a908669f95e59c1d7688c03126340aa6be3923[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Mon Aug 3 12:06:49 2020 +0800
+
+    Update client.properties
+
+[33mcommit 3c36082fcb8b90a007d95f50a07cf7b7df4a4ce7[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Sat Aug 1 13:39:25 2020 +0800
+
+    Update client.properties
+
+[33mcommit 1d918ed619bdd6edee2231606f5da37e50b78fb2[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Fri Jul 31 00:53:48 2020 +0800
+
+    Update client.properties
+
+[33mcommit 09675c6c2a9426ed9643b832be1ddff9dc0a90aa[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Fri Jul 31 00:37:17 2020 +0800
+
+    Update client.properties
+
+[33mcommit 29aa9f4ed91d0a477fcd8b2d894a03176460297b[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Fri Jul 31 00:32:37 2020 +0800
+
+    1
+
+[33mcommit 21069f69bbafb704ba970218bf1b2fd5d7877bc2[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Thu Jul 30 23:57:42 2020 +0800
+
+    Update client.properties
+
+[33mcommit df866efebe1597a2cabb5a207b5fb7c96e35ed50[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Thu Jul 30 23:56:44 2020 +0800
+
+    Update client.properties
+
+[33mcommit 20c2ee9eb7006720ac333620d12fa85fb79fa78e[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Thu Jul 30 23:12:10 2020 +0800
+
+    Rename client.dev.properties to client-dev.properties
+
+[33mcommit 2b68dbaa89cdc20fce09bc7a5f9d517c0a8c5d33[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Thu Jul 30 23:06:58 2020 +0800
+
+    Update client.properties
+
+[33mcommit 260eac4feefa0d10ea03e0cac0494f0dc898612b[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Thu Jul 30 22:43:03 2020 +0800
+
+    Create client.dev.properties
+
+[33mcommit 23843e727bf0febb8d1571a9b5817ef2160400ba[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Thu Jul 30 22:41:49 2020 +0800
+
+    Create client.properties
+
+[33mcommit 8d2afd17283f12a218b656380db8aa87b9e855c3[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Thu Jul 30 22:02:03 2020 +0800
+
+    Create user.properties
+
+[33mcommit 8b67106fe33c66f7bbc4633b6594eb900ce04deb[m
+Author: cgm22509 <58931348+cgm22509@users.noreply.github.com>
+Date:   Thu Jul 30 21:56:42 2020 +0800
+
+    Create server.prop
